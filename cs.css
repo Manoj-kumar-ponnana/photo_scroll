@@ -1,0 +1,146 @@
+body{
+    font-family:cursive;
+}
+#home_div{
+    height: 100vh;
+    width: 100vw;
+    background:  black url(resources/anime-background-1.jpg) no-repeat fixed ;
+    background-size: cover;
+    align-content: center;
+}
+#naruto_mdiv{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    background: url(resources/naruto-background-1.jpg) no-repeat fixed;
+    background-size: cover;
+}
+#itachi_mdiv{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    background: url(resources/itachi-background-1.jpg) no-repeat fixed;
+    background-size: cover;
+}
+#shoyo_mdiv{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    background: url(resources/shoyo-background.jpg) no-repeat fixed;
+    background-size: cover;
+}
+#luffy_mdiv{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    background: url(resources/luffy-background.png) no-repeat fixed;
+    background-size: cover;
+}
+#ishagi_mdiv{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+    background: url(resources/isagi-background.jpg) no-repeat fixed;
+    background-size: cover;
+}
+#scroll_div{
+    height: 100vh;
+    width: 100vw;
+    display: inline-block;
+}
+#side_bar{
+    height: 100%;
+    width: 10%;
+    display: inline-block;
+    vertical-align: middle;
+    align-content: center;
+    float: left;
+}
+#nav{
+    height: 70%;
+    width: 60%;
+    border: 3px solid rgb(109, 99, 99);
+    vertical-align: middle;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+}
+#naruto_div{
+    width: 89%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 6%;
+}
+#itachi_div{
+    width: 89%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 6%;
+}
+#shoyo_div{
+    width: 89%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 6%;
+}
+#luffy_div{
+    width: 89%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 6%;
+}
+#ishagi_div{
+    width: 89%;
+    height: 100%;
+    display: inline-block;
+    padding-top: 6%;
+}
+#home_article_1{
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    float: right;
+    color: aliceblue;
+    padding-right: 5%;
+    font-size: large;
+}
+.pic1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border-radius: 50px;
+    border: 1px solid black;
+    box-shadow: 0px 3px 3px 3px rgb(94, 131, 151);
+}
+.pic2{
+    width: 70px;
+    height: 70px;
+    border-radius: 50px;
+    border: 1px solid black;
+}
+.pic2-1{
+    width: 40px;
+    height: 40px;
+}
+.inline_article{
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    font-size: large;
+}
+.inline_article_1{
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    font-size: large;
+    color: aliceblue;
+}
+.inline_article_2{
+    width: 40%;
+    height: auto;
+    text-align: justify;
+    font-size: large;
+    color: rgb(47, 91, 172);
+}
