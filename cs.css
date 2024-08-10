@@ -144,3 +144,89 @@ body{
     font-size: large;
     color: rgb(47, 91, 172);
 }
+@media screen and (max-width:600px){
+    body{
+        font-size: 8px;
+    }
+    #home_div{
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+    }
+    #home_article_1{
+        font-size: 12px;
+    }
+    .pic1{
+        width: 10%;
+        height: 10%;
+    }
+    #side_bar{
+        height: 40%;
+        width: 16%;
+        float: left;
+    }
+
+    .pic2{
+        width: 30px;
+        height: 30px;
+        border-radius: 50px;
+        border: 1px solid black;
+    }
+    .pic2-1{
+        width: 30px;
+        height: 30px;
+    }
+    #naruto_div{
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+        padding-top: 6%;
+    }
+    #itachi_div{
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+        padding-top: 6%;
+    }
+    #shoyo_div{
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+        padding-top: 6%;
+    }
+    #luffy_div{
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+        padding-top: 6%;
+    }
+    #ishagi_div{
+        width: 80%;
+        height: 100%;
+        display: inline-block;
+        padding-top: 6%;
+    }
+    .inline_article{
+        width: 80%;
+        height: auto;
+        text-align: justify;
+        font-size: 12px;
+        padding-left: 20px;
+    }
+    .inline_article_1{
+        width: 80%;
+        height: auto;
+        text-align: justify;
+        font-size: 12px;
+        padding-left: 20px;
+        color: aliceblue;
+    }
+    .inline_article_2{
+        width: 80%;
+        height: auto;
+        text-align: justify;
+        font-size: 12px;
+        padding-left: 20px;
+        color: rgb(47, 91, 172);
+    }
+}
